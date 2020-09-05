@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there 👋
+
+I am Philipp a 24 year old Machine Learning Engineer and cloud enthusiast. I have a blog @[philschmid.de](https://www.philschmid.de).
+I write tutorials and information posts about cloud and State of the Art machine learning problems.
+
+You can find me on twitter under @[_philschmid.de](https://twitter.com/_philschmid)
+
+## 🔭 Upcoming topics
+
+- I’m currently working on CLI tool/sdk, which automatically upload files and dependencies to AWS EFS. 
+- An Implementation of a GERMAN GPT-2 model, which writes recipes for you.
+- A new SOTA Model for GERMAN NER.
 
 <!--
-**philschmid/philschmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
