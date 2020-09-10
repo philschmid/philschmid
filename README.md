@@ -8,7 +8,7 @@ You can find me on twitter under @[_philschmid.de](https://twitter.com/_philschm
 ## 🔭 Upcoming topics
 
 - I’m currently working on CLI tool/sdk, which automatically upload files and dependencies to AWS EFS. 
-- An Implementation of a GERMAN GPT-2 model, which writes recipes for you.
+- ✅ An Implementation of a GERMAN GPT-2 model, which writes recipes for you. -> https://www.philschmid.de/fine-tune-a-non-english-gpt-2-model-with-huggingface
 - A new SOTA Model for GERMAN NER.
 
 <!--
