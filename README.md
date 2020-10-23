@@ -1,8 +1,6 @@
-## Hi there 👋
+# Machine Learning Engineer & Cloud Enthusiast
 
 Hello, my name is Philipp. I am 24 years old living in Nuremberg, Germany.
-
- I have a blog [philschmid.de](https://www.philschmid.de).
 
 Currently I am working as a machine learning engineer at technology incubation start up. 
 
@@ -12,7 +10,13 @@ I found my passion for cloud concepts and machine learning 3 years ago. Since th
 
 I love to design solution oriented, scalable, efficient architectures to solve real business problems. I believe that machine learning can support any company in any area at any time.
 
-You can find me on twitter under @[_philschmid.de](https://twitter.com/_philschmid)
+I write about all the stuff i am working under [philschmid.de](https://www.philschmid.de) and you can finde me on twitter under @[_philschmid.de](https://twitter.com/_philschmid)
+
+## 🔗 Connect with me 
+<a href="https://www.philschmid.de" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://twitter.com/_philschmid" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://medium.com/@schmidphilipp1995" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/philipp-schmid-a6a2bb196" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## ⚡Technologies 
 
