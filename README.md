@@ -34,7 +34,7 @@ React, Vue, React-Native, LitElement, GraphQL, Gatsby, TailwindCSS
 
 ## 🔭 Upcoming topics
 
-- I’m currently working on CLI tool/sdk, which automatically upload files and dependencies to AWS EFS. 
+- ✅ [I’m currently working on CLI tool/sdk, which automatically upload files and dependencies to AWS EFS.](https://github.com/philschmid/efsync) 
 - ✅ An Implementation of a GERMAN GPT-2 model, which writes recipes for you. -> https://www.philschmid.de/fine-tune-a-non-english-gpt-2-model-with-huggingface
 - A new SOTA Model for GERMAN NER.
 
