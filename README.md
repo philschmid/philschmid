@@ -2,9 +2,9 @@
 
 Hello, my name is Philipp. I am 24 years old living in Nuremberg, Germany.
 
-Currently I am working as a machine learning engineer at technology incubation start up. 
+Currently I am working as a machine learning engineer and tech lead at Hugging Face to democratize artificial intelligence through open source and open science.. 
 
-At work design and implement cloud-native machine learning architectures for fin-tech and insurance companies. 
+In the past I designed and implemented cloud-native machine learning architectures for fin-tech and insurance companies. 
 
 I found my passion for cloud concepts and machine learning 3 years ago. Since then I never stopped learning. Currently, I am focusing myself in the area NLP and how to leverage models like BERT, Roberta and GPT2 to generate business value.
 
@@ -36,8 +36,7 @@ React, Vue, React-Native, LitElement, GraphQL, Gatsby, TailwindCSS
 
 - ✅ [I’m currently working on CLI tool/sdk, which automatically upload files and dependencies to AWS EFS.](https://github.com/philschmid/efsync) 
 - ✅ An Implementation of a GERMAN GPT-2 model, which writes recipes for you. -> https://www.philschmid.de/fine-tune-a-non-english-gpt-2-model-with-huggingface
-- A new SOTA Model for GERMAN NER.
-
+- ✅ got a job at the best company https://github.com/huggingface
 <!--
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
