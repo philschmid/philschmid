@@ -4,13 +4,13 @@ Hello, my name is Philipp. I am 25 years old living in Nuremberg, Germany.
 
 Currently I am working as a machine learning engineer and tech lead at Hugging Face to democratize artificial intelligence through open source and open science.. 
 
-In the past I designed and implemented cloud-native machine learning architectures for fin-tech and insurance companies. 
+I am leading our collaboration and partnership with AWS and I am the Tech Lead for our new Inference Solution 🤗 Infinity.
 
-I found my passion for cloud concepts and machine learning 3 years ago. Since then I never stopped learning. Currently, I am focusing myself in the area NLP and how to leverage models like BERT, Roberta and GPT2 to generate business value.
+In the past I designed and implemented cloud-native machine learning architectures for fin-tech and insurance companies.
 
-In June 2021 I became an official [AWS ML Hero](https://aws.amazon.com/de/developer/community/heroes/philipp-schmid/) 🦸🏻‍♂️
+In June 2021 I became the first German [AWS ML Hero](https://aws.amazon.com/de/developer/community/heroes/philipp-schmid/) 🦸🏻‍♂️
 
-I love to design solution oriented, scalable, efficient architectures to solve real business problems. I believe that machine learning can support any company in any area at any time.
+I found my passion for cloud concepts and machine learning 5 years ago. Since then I never stopped learning. Currently, I am focusing myself in the area NLP and how to leverage models like BERT, Roberta and GPT2 to generate business value.
 
 I write about all the stuff i am working under [philschmid.de](https://www.philschmid.de) and you can finde me on twitter under @[_philschmid.de](https://twitter.com/_philschmid)
 
@@ -28,10 +28,10 @@ I believe that one should not have a fixed technology stack, but should always r
 Huggingface Transformers, Pytorch, Scikit-Learn, Tensorflow, Weights & Bias, Optuna, Pandas, Numpy
 
 **☁️ Cloud**  
-AWS, GCP, Azure, Kubernetes, Kubeflow, Docker, Terraform, Github Actions, Serverless Framework
+AWS, GCP, Azure, Kubernetes, Kubeflow, Docker, Terraform, AWS CDK, Github Actions, Serverless Framework
 
 **🏗️ Non-ML Frameworks**  
-Rust, React, Vue, React-Native, LitElement, GraphQL, Gatsby, TailwindCSS
+Rust, React, Svelte, React-Native, LitElement, GraphQL, Gatsby, TailwindCSS
 
 <!--
 ## 🔭 Upcoming topics
