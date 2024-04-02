@@ -1,6 +1,4 @@
-# Machine Learning Engineer & Cloud Enthusiast
-
-Hello, my name is Philipp. 
+### Hello, my name is Philipp
 
 I am a Technical Lead at Hugging Face, leading our collaboration and partnerships with major cloud providers like [AWS](https://huggingface.co/blog/aws-partnership), [Google Cloud](https://huggingface.co/blog/gcp-partnership), [Azure](https://huggingface.co/blog/hugging-face-endpoints-on-azure), and Cloudflare.
 
