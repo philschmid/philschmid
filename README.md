@@ -10,7 +10,7 @@ If I'm not putting Transformers and Generative AI models into services or produc
 
 In addition to my work at Hugging Face, I engage in evangelism and advocacy efforts, sharing my knowledge and insights through research publications, blog posts on [LinkedIn](https://twitter.com/_philschmid), and posts on [X (formerly Twitter)](https://www.linkedin.com/in/philipp-schmid-a6a2bb196/).
 
-I write about all the stuff i am working under [philschmid.de](https://www.philschmid.de) and you can finde me on twitter under @[_philschmid.de](https://twitter.com/_philschmid)
+I write about all the stuff i am working under [philschmid.de](https://www.philschmid.de).
 
 ## 🔗 Connect with me 
 <a href="https://www.philschmid.de" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
@@ -20,7 +20,7 @@ I write about all the stuff i am working under [philschmid.de](https://www.phils
 
 ## ⚡Technologies 
 
-Below is a list of Technologies (mostly open source frameworks, libraries and languages) I regulrary use and enjoy working with. If you want to see more what i do or have done, check out my [GitHub](https://github.com/philschmid).
+Below is a list of Technologies (mostly open source frameworks, libraries, and languages) I regularly use and enjoy working with. If you want to see more what I do or have done, check out my [GitHub](https://github.com/philschmid).
 
 **🤖 Machine Learning**  
 Transformers, PyTorch, Scikit-Learn, Langchain, Weights & Bias, Deepspeed, TensorRT, Triton, ONNX.
